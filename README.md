@@ -4,7 +4,7 @@
 ## Contexte
 Le projet vise à comparer les visages détectés dans quatres images afin d'identifier les visages similaires.
 Cette tâche est essentielle dans des applications telles que la reconnaissance faciale, la sécurité, et l'analyse de photographie.
-Pour ce faire, nous avons utilisé des techniques de détection de visages et de comparaison de caractéristiques faciales.
+Pour ce faire, nous avons utilisé des techniques de détection de visages et de comparaison de caractéristiques faciales..
 
 ## Motivation
 La motivation derrière ce travail est de développer une méthode efficace pour comparer des visages entre deux images, ce qui peut être appliqué dans divers domaines comme :
