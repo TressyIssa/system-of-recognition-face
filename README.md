@@ -8,10 +8,8 @@ Pour ce faire, nous avons utilisé des techniques de détection de visages et de
 
 ## Motivation
 La motivation derrière ce travail est de développer une méthode efficace pour comparer des visages entre deux images, ce qui peut être appliqué dans divers domaines comme :
-- **Sécurité** : Pour identifier des individus dans des systèmes de surveillance.
-- **Réseaux sociaux** : Pour taguer des amis automatiquement dans des photos.
+- **Sécurité** : Pour identifier des jouers dans des systèmes de surveillance dans de fédération sportif.
 - **Photographie** : Pour organiser et rechercher des photos contenant des visages similaires.
-- **Recherche académique** : Pour étudier les caractéristiques faciales et les relations entre différents visages.
 
 ## Installation
 Pour exécuter ce projet, vous devez installer les bibliothèques nécessaires. Suivez les étapes ci-dessous pour configurer votre environnement.
