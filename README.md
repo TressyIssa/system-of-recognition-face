@@ -23,8 +23,8 @@ Pour exécuter ce projet, vous devez installer les bibliothèques nécessaires. 
 ### Étapes d'Installation
 1. Clonez ce dépôt GitHub sur votre machine locale :
     ```sh
-    git clone https://github.com/votre-nom-utilisateur/votre-repo.git
-    cd votre-repo
+    git clone https://github.com/TressyIssa/face-recognition.git
+    cd face-recognition
     ```
 
 2. Installez les bibliothèques nécessaires :
