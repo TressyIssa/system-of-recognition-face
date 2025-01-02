@@ -15,7 +15,7 @@ La motivation derrière ce travail est de développer une méthode efficace pour
 Pour exécuter ce projet, vous devez installer les bibliothèques nécessaires. Suivez les étapes ci-dessous pour configurer votre environnement.
 
 ### Prérequis
-- Python 3.x
+- Python 3.12
 - pip (gestionnaire de paquets pour Python)
 
 ### Étapes d'Installation
