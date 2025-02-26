@@ -1,7 +1,7 @@
 # Face Recongnition
 ![Intro](https://github.com/user-attachments/assets/030722b6-f96d-4dd3-b463-6aaea1b9e368)
 
-## Contexte
+## Contexte.
 Le projet vise à comparer les visages détectés dans quatres images afin d'identifier les visages similaires.
 Cette tâche est essentielle dans des applications telles que la reconnaissance faciale, la sécurité, et l'analyse de photographie.
 Pour ce faire, nous avons utilisé des techniques de détection de visages et de comparaison de caractéristiques faciales..
